@@ -1,5 +1,0 @@
-package com.mimansa.project.blog.payloads;
-
-public class PostResponse {
-
-}
