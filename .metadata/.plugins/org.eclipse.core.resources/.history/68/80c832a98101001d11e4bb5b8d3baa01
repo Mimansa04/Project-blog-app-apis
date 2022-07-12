@@ -1,0 +1,5 @@
+package com.mimansa.project.blog.services;
+
+public interface FileService {
+
+}
